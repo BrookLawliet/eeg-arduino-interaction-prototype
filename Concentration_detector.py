@@ -14,8 +14,8 @@ engagement_threshold = 10
 window_size = 20
 
 # Arduino setup
-arduino = serial.Serial('COM5', 9600)  # Replace with your actual port
-time.sleep(2)  # Wait for Arduino to initialize
+arduino = serial.Serial('COM5', 9600)  
+time.sleep(2)  
 
 # Engagement tracking
 engagement_history = []
