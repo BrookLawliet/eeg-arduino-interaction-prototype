@@ -5,8 +5,8 @@ This project demonstrates a simple EEG-based interactive control system using Py
 ## Demo Video
 
 YouTube demo video:  
-https://youtu.be/cobWKBGCmuM 
-https://youtu.be/6-eNrrrxXvw
+Eye status control via EEG: https://youtu.be/cobWKBGCmuM 
+Concentration control via EEG: https://youtu.be/6-eNrrrxXvw
 
 ## Project Overview
 
