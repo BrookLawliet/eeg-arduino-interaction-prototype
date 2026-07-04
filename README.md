@@ -33,6 +33,20 @@ The goal of this prototype is to explore how EEG signals can be used as a simple
 - Python
 - Arduino
 
+## Environment Setup
+
+The EEG signal was acquired using a Muse 2 headset. The Python environment was used for real-time signal acquisition and signal processing, while Arduino was used for output control.
+
+Example workflow:
+
+1. Connect the Muse 2 headset via Bluetooth.
+2. Start the Python environment for EEG signal acquisition and processing.
+3. Run the EEG processing script.
+4. Upload the Arduino control program to the Arduino board.
+5. Execute the prototype and observe LED/buzzer responses.
+
+Note: The exact environment configuration may depend on the operating system, Bluetooth connection method, and installed Python packages.
+
 ## Motivation
 
 This prototype was developed independently after my undergraduate studies. Through this project, I became interested in using biological signals such as EEG, gaze, and visual information as new channels for human-computer interaction, human augmentation, and behavior understanding.
